@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/ContosoPets.csproj": {}
+    "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj": {}
   },
   "projects": {
-    "/Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/ContosoPets.csproj": {
+    "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/ContosoPets.csproj",
+        "projectUniqueName": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj",
         "projectName": "ContosoPets",
-        "projectPath": "/Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/ContosoPets.csproj",
+        "projectPath": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj",
         "packagesPath": "/Users/euricosantos/.nuget/packages/",
-        "outputPath": "/Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/obj/",
+        "outputPath": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/euricosantos/.nuget/NuGet/NuGet.Config"

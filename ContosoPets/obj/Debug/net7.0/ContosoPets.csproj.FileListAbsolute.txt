@@ -12,3 +12,17 @@
 /Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.pdb
 /Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/obj/Debug/net7.0/ContosoPets.genruntimeconfig.cache
 /Volumes/Volume/Projetos C#/Cursos Microsoft/ContosoPets/obj/Debug/net7.0/ref/ContosoPets.dll
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/bin/Debug/net7.0/ContosoPets
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/bin/Debug/net7.0/ContosoPets.deps.json
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/bin/Debug/net7.0/ContosoPets.runtimeconfig.json
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/bin/Debug/net7.0/ContosoPets.dll
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/bin/Debug/net7.0/ContosoPets.pdb
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.AssemblyInfoInputs.cache
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.AssemblyInfo.cs
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.csproj.CoreCompileInputs.cache
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.dll
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/refint/ContosoPets.dll
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.pdb
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.genruntimeconfig.cache
+/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ref/ContosoPets.dll
