@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj": {}
+    "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj": {}
   },
   "projects": {
-    "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj": {
+    "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj",
+        "projectUniqueName": "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj",
         "projectName": "ContosoPets",
-        "projectPath": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/ContosoPets.csproj",
-        "packagesPath": "/Users/euricosantos/.nuget/packages/",
-        "outputPath": "/Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/",
+        "projectPath": "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj",
+        "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
+        "outputPath": "G:\\Projetos\\netTests\\contosopets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/euricosantos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -32,11 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

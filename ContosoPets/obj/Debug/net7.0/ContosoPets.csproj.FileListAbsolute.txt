@@ -26,3 +26,18 @@
 /Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.pdb
 /Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ContosoPets.genruntimeconfig.cache
 /Volumes/Volume/Projetos C#/netTests/ContosoPets/obj/Debug/net7.0/ref/ContosoPets.dll
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.AssemblyInfoInputs.cache
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.AssemblyInfo.cs
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.csproj.CoreCompileInputs.cache
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.sourcelink.json
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.dll
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\refint\ContosoPets.dll
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.pdb
+G:\Projetos\netTests\contosopets\bin\Debug\net7.0\ContosoPets.exe
+G:\Projetos\netTests\contosopets\bin\Debug\net7.0\ContosoPets.deps.json
+G:\Projetos\netTests\contosopets\bin\Debug\net7.0\ContosoPets.runtimeconfig.json
+G:\Projetos\netTests\contosopets\bin\Debug\net7.0\ContosoPets.dll
+G:\Projetos\netTests\contosopets\bin\Debug\net7.0\ContosoPets.pdb
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ContosoPets.genruntimeconfig.cache
+G:\Projetos\netTests\contosopets\obj\Debug\net7.0\ref\ContosoPets.dll
