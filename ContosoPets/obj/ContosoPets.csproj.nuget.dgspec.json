@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj": {}
+    "G:\\Projetos\\netTests\\ContosoPets\\ContosoPets.csproj": {}
   },
   "projects": {
-    "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj": {
+    "G:\\Projetos\\netTests\\ContosoPets\\ContosoPets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj",
+        "projectUniqueName": "G:\\Projetos\\netTests\\ContosoPets\\ContosoPets.csproj",
         "projectName": "ContosoPets",
-        "projectPath": "G:\\Projetos\\netTests\\contosopets\\ContosoPets.csproj",
+        "projectPath": "G:\\Projetos\\netTests\\ContosoPets\\ContosoPets.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "G:\\Projetos\\netTests\\contosopets\\obj\\",
+        "outputPath": "G:\\Projetos\\netTests\\ContosoPets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config"
