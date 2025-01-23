@@ -1,3 +1,6 @@
+//Learn at 05 - Sep - 2023
+using System;
+
 Random dice = new Random();
 
 int roll1 = dice.Next(1, 7);
